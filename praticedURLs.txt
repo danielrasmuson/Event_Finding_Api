@@ -1,3 +1,0 @@
-https://api.meetup.com/2/open_events.xml?zip=55407&time=-1w,&status=past&key=2c26105752a563a2150c191212a4e
-https://api.meetup.com/2/open_events.xml?zip=55407&time=6d,9d&topic=newtech&page=20&key=${apiKey}
-https://api.meetup.com/2/open_events.xml?zip=55407&time=6d,4w&status=past&key=2c26105752a563a2150c191212a4e
